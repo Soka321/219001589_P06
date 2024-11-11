@@ -1,0 +1,4 @@
+Select * S_ID FROM BRIDGE
+where M_CODE=  'IFM2A10' OR 'CSC2A10';
+
+
